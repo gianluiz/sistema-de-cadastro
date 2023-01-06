@@ -1,4 +1,4 @@
-# sistema de cadastro
+# Sistema de Cadastro de Pessoas
  Um Sistema com Menu/Interface que faz Cadastro de pessoas
 #####################
 Esse é um Sistema de Cadastro que eu, inicialmente, aprendi no Curso em Vídeo do Professor Guanabara. 
